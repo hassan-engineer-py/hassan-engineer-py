@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @hassan-engineer-py
-- 👀 I’m interested in enginnering,arduino,and Java
-- 🌱 I’m currently learning java and Arduin
+- 👀 I’m interested in Objective-C and DBaaS dev
+- 🌱 I’m currently learning Objective-C
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: im just A KID and i know python alot I know tkinter use commands to do thigs in buttons 
+- ⚡ Fun fact: Objective-C is not only for macOS, iOS, and IpadOS, it can go on Windows and linux too! Via gcc-objc and Clang!
 
 <!---
 hassan-engineer-py/hassan-engineer-py is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
